@@ -1,0 +1,73 @@
+body{
+    margin: 1.8rem auto;
+    background-color: rgb(255, 254, 252);
+}
+h1{
+    font-size: 2.2rem;
+}
+#name{
+    color: rgb(137, 134, 134);
+}
+
+.btn:hover{
+    transform: scale(1.05);
+    background-color: white;
+    color:black;
+    
+}
+.btn{
+    border-radius: 0.3rem;
+    padding:0.4rem 0.6rem auto;
+    cursor: pointer;
+    margin: 0.6rem;
+    border: 0.06rem solid black;
+
+}
+
+footer li{
+    text-align: center;
+}
+
+
+footer ul{
+    list-style: none;
+    display: flex;
+}
+
+#Yourcv{
+   display: none;
+   background-color: rgb(252, 252, 252);
+}
+
+#cvform{
+    /*display: none;*/
+}
+
+.myimg{
+    border: 2px solid rgb(178, 173, 173);
+    width: 12rem;
+    border-radius: 50%;
+    
+    margin-top: 1.5rem;
+}
+.heading{
+    margin-top: 0rem;
+}
+
+.leftside{
+    background-color: rgb(204, 206, 206);
+}
+footer{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
